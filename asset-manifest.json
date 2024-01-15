@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/winashantsaw.github.io/static/css/main.a0dc35e5.css",
+    "main.js": "/winashantsaw.github.io/static/js/main.9dea7e58.js",
+    "static/js/787.38f16daf.chunk.js": "/winashantsaw.github.io/static/js/787.38f16daf.chunk.js",
+    "index.html": "/winashantsaw.github.io/index.html",
+    "main.a0dc35e5.css.map": "/winashantsaw.github.io/static/css/main.a0dc35e5.css.map",
+    "main.9dea7e58.js.map": "/winashantsaw.github.io/static/js/main.9dea7e58.js.map",
+    "787.38f16daf.chunk.js.map": "/winashantsaw.github.io/static/js/787.38f16daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0dc35e5.css",
+    "static/js/main.9dea7e58.js"
+  ]
+}
